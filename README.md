@@ -255,4 +255,6 @@ The study illustrates how comparative genomics can be used to understand molecul
 
 ## Citation
 
+Juneja, V. (2026). BRCA1 Gene Analysis: Comparative Genomics and Evolutionary Study Using Bioinformatics Tools. GitHub Repository.
+
 If you find this project useful for learning bioinformatics workflows, please cite the corresponding databases and tools used in the analysis.
